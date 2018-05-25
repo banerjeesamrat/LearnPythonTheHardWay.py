@@ -1,0 +1,3 @@
+I had to struggle with python raw_input here
+it was a long struggle
+i am tired now after this code
