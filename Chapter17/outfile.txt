@@ -1,0 +1,4 @@
+
+From infile this text shall go to outfile
+This is like magic
+Python is magical!
